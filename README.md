@@ -4,8 +4,8 @@
 I enjoy web development and making small 2D games with Python.
 
 ### Skills
-⚛️ ReactJS, Node.js
-💻 Python, Java, C++, Javascript
+* ⚛️ ReactJS, Node.js
+* 💻 Python, Java, C++, Javascript
 
 
 
