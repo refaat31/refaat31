@@ -7,6 +7,7 @@ I enjoy web development and making small 2D games with Python.
 * ⚛️ ReactJS, Node.js
 * 💻 Python, Java, C++, Javascript
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/refaat_stark)  
 
 
 
