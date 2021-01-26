@@ -1,7 +1,7 @@
 ![](https://github.com/refaat31/refaat31/blob/main/StMartins_final.jpg)
 
 ##  Hi there 👋, I'm Refaat from Bangladesh. 
-I enjoy web development and making small 2D games.
+I enjoy web development and making 2D games.
 
 
 
